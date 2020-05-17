@@ -1,0 +1,3 @@
+Algorithm Practical training
+
+可参考算法综合实验指导手册，完成两个实验
